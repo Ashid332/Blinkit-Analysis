@@ -63,6 +63,11 @@ Blinkit-Analysis/
 
 For questions or feedback about this analysis, please reach out via GitHub.
 
+## Connect With Me
+
+- **Email**: [ashiduli53@gmail.com](mailto:ashiduli53@gmail.com)
+- **LinkedIn**: [linkedin.com/in/ashidulislam](https://linkedin.com/in/ashidulislam)
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
