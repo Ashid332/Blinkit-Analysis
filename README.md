@@ -11,6 +11,14 @@ This project provides an in-depth analysis of Blinkit's grocery delivery operati
 ```
 Blinkit-Analysis/
 ├── BlinkIT Grocery Data.xlsx      # Raw dataset for analysis
+├── README.md                       # This file
+├── RECRUITER_QUICK_START.md        # 60-second guide for recruiters
+├── PROJECT_INSIGHTS.md             # Technical competencies showcase
+├── CONTRIBUTING.md                 # Collaboration guidelines
+├── CODE_OF_CONDUCT.md              # Community standards (Contributor Covenant)
+├── requirements.txt                # Python dependencies
+├── LICENSE                         # MIT License
+└── .gitignore                      # Git ignore file
 ├── Blinkit Analysis.pbix          # Power BI dashboard with visualizations
 ├── blinkit analysis.pdf           # Detailed analysis report
 ├── background kpi.png             # KPI visualization background
@@ -60,6 +68,15 @@ Blinkit-Analysis/
 - Expand analysis with customer segmentation
 
 ## 📞 Contact & Support
+
+## 📚 Quick Navigation
+
+New to this project? Start here:
+
+- 🎯 **For Recruiters**: See [RECRUITER_QUICK_START.md](RECRUITER_QUICK_START.md) for 60-second overview
+- 📊 **For Technical Review**: Check [PROJECT_INSIGHTS.md](PROJECT_INSIGHTS.md) for competencies
+- 🤝 **For Contributors**: Read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
+- 📋 **For Community**: View [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for standards
 
 For questions or feedback about this analysis, please reach out via GitHub.
 
