@@ -7,6 +7,8 @@ A comprehensive data analysis project for Blinkit delivery patterns, user behavi
 This project provides an in-depth analysis of Blinkit's grocery delivery operations, focusing on delivery patterns, customer behavior, and logistics optimization opportunities.
 
 ## 📸 Dashboard Preview
+<img width="1311" height="846" alt="image" src="https://github.com/user-attachments/assets/b1be77aa-fe0e-403e-bf57-dc3d079d1e7c" />
+
 
 > **Interactive Power BI Dashboard** with comprehensive KPI tracking and performance metrics
 
