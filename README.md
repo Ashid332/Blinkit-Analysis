@@ -15,9 +15,10 @@ This project provides an in-depth analysis of Blinkit's grocery delivery operati
 - **Outlet Performance Analysis**: Sales by outlet type & location, size-based comparisons
 - **Product & Category Insights**: Top-performing categories, fat content analysis, visibility impact
 
-![Dashboard KPI Overview](images/dashboard_kpi_overview.png)
-![Outlet Performance](images/dashboard_outlet_performance.png)
-![Product Insights](images/dashboard_product_insights.png)
+
+**Dashboard Visualization**: View the Power BI file (`Blinkit Analysis.pbix`) to explore the interactive dashboard.
+
+_Note: Dashboard screenshots will be added soon. You can download the .pbix file to view the complete interactive dashboard._
 
 > 📊 **View the interactive dashboard**: Request access to the Power BI Service report for live interaction
 
